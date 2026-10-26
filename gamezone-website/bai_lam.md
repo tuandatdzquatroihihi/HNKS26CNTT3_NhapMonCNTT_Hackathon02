@@ -24,18 +24,6 @@ cd ..
 ### Kết quả liệt kê toàn bộ dự án
 
 ```text
-    Directory: D:\de-on-tap-game\starter-kit\gamezone-website\logs
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----        10/26/2026   1:10 PM            986 game.log
-
-
-PS D:\de-on-tap-game\starter-kit\gamezone-website\logs> cd ..
-PS D:\de-on-tap-game\starter-kit\gamezone-website> ls -r -Force
-
-
     Directory: D:\de-on-tap-game\starter-kit\gamezone-website
 
 
