@@ -17,7 +17,7 @@ mv .\logo_gamezone.png .\media\
 cp .\media\logo_gamezone.png .\backup\
 rm -r *.tmp
 cd .\logs\
-ls -r
+cat .\game.log
 cd ..
 ```
 
